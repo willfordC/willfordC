@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willfordC&show_icons=true&theme=)
 
-访客统计
+访客统计blog
 
-<div align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=willfordC.blog.issue.1" /> </div>
+[![HitCount](https://hits.dwyl.com/willfordC/blog.svg?style=flat-square)](http://hits.dwyl.com/willfordC/blog)
 
 我的技能
 
